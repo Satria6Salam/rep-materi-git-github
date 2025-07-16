@@ -1,0 +1,22 @@
+Git Command
+1) $ git init: untuk menginisialisasi repo di komputer
+2) $ git add <nama_file>: untuk menambah file
+3) $ git status: untuk mengetahui status repo
+4) $ git commit: untuk melakukan commit
+5) $ git config: untuk memasukkan konfigurasi kedalam git
+6) $ git branch: untuk membuat branch
+7) $ git help: untuk melihat daftar command 
+8) $ git add . : menambah seluruh isi folder
+9) $ git rm -r --cached: menghapus semua isi dalam folder, r agar Git tahu kamu ingin menghapus folder beserta seluruh isinya, 
+--cached → supaya hanya dihapus dari staging area, tapi tetap tersimpan di working directory (tidak terhapus dari komputermu).
+10) $ git log: melihat history
+11) $ git log -2: melihat 2 history terakhir
+12) $ git log --"alamat": melihat history tertentu
+
+Tiga Area Pada Repi Git
+1. Working Tree: tempat / area kerja dengan file di proyek, tempat melakukan pengeditan, penambahan dan penghapusan file.
+2. Staging area: area sementara yang menyimpan file yang siap untuk di commit, ketika menjalan perintah git add berarti memindahkan dari 
+working tree ke staging area.
+3. History: area tempat Git menyimpan seluruh riwayat commit dan versi dari proyek, tempat backup permanen dari semua commit.
+
+>> Staging area dan History disimpan dalam folder .git
