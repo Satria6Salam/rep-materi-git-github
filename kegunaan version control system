@@ -1,3 +1,4 @@
 Kegunaan version control system 
 1) Mengecek histori, sebuah sistem yang menyimpan rekaman / snapshot perubahan pada source code
 2) Mempermudah shering
+3) Memungkinkan kita untuk kembali ke keadaan sebelum perubahan (check out)
