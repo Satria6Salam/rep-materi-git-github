@@ -10,3 +10,4 @@
 9) remote: sumber yang memiliki repo
 10) clone: mengambil repo dari remote
 11) pull request: meminta pemilik repo untuk mengambil perubahan yang telah dilakukan
+12) merge conflicts: ketika baris yang sama diubah oleh dua branch yang berbeda
