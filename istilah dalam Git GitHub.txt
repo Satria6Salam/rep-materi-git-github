@@ -1,0 +1,4 @@
+>	Istilah dalam GIT
+1) Branch: membuat percabangan dalam proses pembuatan code
+2) Merge: penggabungan dari beberapa branch
+3) Push: mengirim commit
