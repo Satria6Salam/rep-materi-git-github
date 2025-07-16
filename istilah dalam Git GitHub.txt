@@ -1,0 +1,11 @@
+>	Istilah dalam GIT
+1) Branch: membuat percabangan dalam proses pembuatan code
+2) Merge: penggabungan dari beberapa branch
+3) Push: mengirim commit
+4) pull: mengambil commit
+5) repo: folder project 
+6) commit: rekaman / snapshot dari repo
+7) hash: penanda unik pada sebuah commit
+8) checkout: berpindah ke sebuah commit 
+9) remote: sumber yang memiliki repo
+10) clone: mengambil repo dari remote
