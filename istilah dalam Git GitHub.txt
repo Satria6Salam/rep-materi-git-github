@@ -6,3 +6,6 @@
 5) repo: folder project 
 6) commit: rekaman / snapshot dari repo
 7) hash: penanda unik pada sebuah commit
+8) checkout: berpindah ke sebuah commit 
+9) remote: sumber yang memiliki repo
+10) clone: mengambil repo dari remote
