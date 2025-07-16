@@ -9,3 +9,4 @@
 8) checkout: berpindah ke sebuah commit 
 9) remote: sumber yang memiliki repo
 10) clone: mengambil repo dari remote
+11) pull request: meminta pemilik repo untuk mengambil perubahan yang telah dilakukan
