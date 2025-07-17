@@ -11,7 +11,18 @@ Git Command
 --cached → supaya hanya dihapus dari staging area, tapi tetap tersimpan di working directory (tidak terhapus dari komputermu).
 10) $ git log: melihat history
 11) $ git log -2: melihat 2 history terakhir
-12) $ git log --"alamat": melihat history tertentu
+12) $ git log -- <nama_file>: melihat history tertentu
+13) $ git checkout <5 digit commit> -- <nama_file>: mengembalikan perubahan yang terjadi dalam satu file
+14) $ pwd: status alamat terkini
+15) $ git commit -am "pesan": menambah dan commit
+16) $ git branch: melihat list branch dan branch yang aktif 
+17) $ git branch <nama_branch>: membuat branch baru
+18) $ git log --all --decorate --oneline --graph: melihat grafik branch
+19) $ alias graph = "git log --all --decorate --oneline --graph": meringkas command untuk melihat graph
+20) $ git branch -d <nama_branch>: menghapus branch yang sudah dimerge
+21) $ git merge <nama_branch>: menggabungkan branch ke jalur utama
+22) $ git branch --merged: melihat branch yang sudah dimerge
+23) $ git branch -D <nama_branch>: menghapus branch yang belum dimerge
 
 Tiga Area Pada Repi Git
 1. Working Tree: tempat / area kerja dengan file di proyek, tempat melakukan pengeditan, penambahan dan penghapusan file.
