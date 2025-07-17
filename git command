@@ -26,6 +26,11 @@ Git Command
 24) $ ls: melihat keberadaan status dalam file atau folder
 25) $ git remote: melihat nama remote
 26) $ git remote -v: melihat alamat ramote lengkap disertai link https
+27) $ git config --global / --local user.name / user.email "nama": untuk login digit komputer
+28) $ git config --list: melihat akun git komputer
+29) $ git push: mengirim atau meng update di remote / github
+30) $ git mkdir <nama_folder>: membuat folder
+
 
 Tiga Area Pada Repi Git
 1. Working Tree: tempat / area kerja dengan file di proyek, tempat melakukan pengeditan, penambahan dan penghapusan file.
