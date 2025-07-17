@@ -23,6 +23,9 @@ Git Command
 21) $ git merge <nama_branch>: menggabungkan branch ke jalur utama
 22) $ git branch --merged: melihat branch yang sudah dimerge
 23) $ git branch -D <nama_branch>: menghapus branch yang belum dimerge
+24) $ ls: melihat keberadaan status dalam file atau folder
+25) $ git remote: melihat nama remote
+26) $ git remote -v: melihat alamat ramote lengkap disertai link https
 
 Tiga Area Pada Repi Git
 1. Working Tree: tempat / area kerja dengan file di proyek, tempat melakukan pengeditan, penambahan dan penghapusan file.
