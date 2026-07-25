@@ -30,7 +30,9 @@ Git Command
 28) $ git config --list: melihat akun git komputer
 29) $ git push: mengirim atau meng update di remote / github
 30) $ git mkdir <nama_folder>: membuat folder
-
+31) $ git fecth <nama_remote>: membaca perubahan status di remote
+32) $ git merge satria-salam/main: menyamakan perubahan di folder kita dengan folder diremote
+34) $ git pull:
 
 Tiga Area Pada Repi Git
 1. Working Tree: tempat / area kerja dengan file di proyek, tempat melakukan pengeditan, penambahan dan penghapusan file.
