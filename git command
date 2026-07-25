@@ -33,6 +33,9 @@ Git Command
 31) $ git fecth <nama_remote>: membaca perubahan status di remote
 32) $ git merge satria-salam/main: menyamakan perubahan di folder kita dengan folder diremote
 34) $ git pull:
+35) $ git checkout -b <nama_branch>: membuat branch baru dan pindah ke branch tersebut
+36) $ git push origin <nama_branch>: mengirim perubahan ke branch tertentu di github
+37) $ git push --delete features: menghapus branch yang ada di graph yang sudah dimerge
 
 Tiga Area Pada Repi Git
 1. Working Tree: tempat / area kerja dengan file di proyek, tempat melakukan pengeditan, penambahan dan penghapusan file.
